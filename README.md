@@ -1,8 +1,8 @@
-#Detection Engineering Lab
+# Detection Engineering Lab
 
 This repository tracks my progress in various courses, research on different attack tradecraft techniques, and overall learning over time. 
 
-#What This Lab Focuses On
+# What This Lab Focuses On
 
 - Researching attacker tactics and techniques
 - Emulating behavior in a lab environment
