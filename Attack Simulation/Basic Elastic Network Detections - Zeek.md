@@ -1,5 +1,5 @@
-Web Scanners:
-event.dataset : zeek.http and user_agent.original : (*Nmap* or *feroxbuster* or *Nikto* or *gobuster*)
+# Web Scanners:
+`event.dataset : zeek.http and user_agent.original : (*Nmap* or *feroxbuster* or *Nikto* or *gobuster*)`
 
 Anonylous Network Requests in 5 min threshold
 event.dataset: "zeek.http" 
